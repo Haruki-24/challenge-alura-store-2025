@@ -1,4 +1,4 @@
-## Desafío de Alura Latam: Análisis de Tiendas Alura Store
+# Desafío de Alura Latam: Análisis de Tiendas Alura Store
 
 ## Descripción del Proyecto
 
