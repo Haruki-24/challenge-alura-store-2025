@@ -1,6 +1,10 @@
 # Desafío de Alura Latam: Análisis de Tiendas Alura Store
 
-## Descripción del Proyecto
+## Objetivo general del proyecto
+
+El objetivo principal de este proyecto es analizar el rendimiento de un negocio a través de métricas clave. Para lograrlo, cargaremos, manipularemos y visualizaremos datos de un archivo CSV usando las bibliotecas Pandas y Matplotlib, para así obtener información valiosa sobre ingresos, reseñas y ventas.
+
+## Objetivo especifico del desafío
 
 Este proyecto tiene como objetivo analizar el rendimiento de las cuatro tiendas de la cadena Alura Store utilizando datos de ventas, ingresos, calificaciones y distribución geográfica. El análisis busca identificar la tienda menos eficiente y proporcionar una recomendación al Sr. Juan sobre cuál tienda debería considerar vender para iniciar un nuevo emprendimiento.
 
