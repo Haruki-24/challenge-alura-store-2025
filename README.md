@@ -1,5 +1,5 @@
 # 📊 Desafío Alura Latam: Análisis de Tiendas Alura Store
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://drive.google.com/file/d/1Tb-olHs6eD04ZkX-LI9Y_UjvKPEiByR7/view?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haruki-24/challenge-alura-store-2025/blob/main/AluraStoreLatam.ipynb)
 
 ## 📋 Descripción del Proyecto
 Este proyecto desarrolla un análisis de Business Intelligence y Data Science para evaluar el rendimiento financiero y operativo de las cuatro tiendas de la cadena **Alura Store**. El objetivo principal es transformar datos crudos de ventas en *insights* accionables para responder a un desafío estratégico real: **identificar la tienda óptima para desinversión (venta)**, permitiendo al inversor (Sr. Juan) maximizar su retorno de capital para un nuevo emprendimiento.
